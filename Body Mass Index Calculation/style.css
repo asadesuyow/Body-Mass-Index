@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: start;
+    padding: 10px 35px;
+    padding-bottom: 30px;
+
+}
+
+#info {
+    color: white;
+    background-color: rgb(13, 69, 20);
+}
+
+
+
+.input-group {
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    text-align: start;
+}
+
+input {
+    padding: 5px;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(13, 69, 20);
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#hasil {
+    margin-top: 20px;
+}
